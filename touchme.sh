@@ -1,4 +1,3 @@
-pkg update
 pkg install -y nmap curl wget
 a='output'
 mkdir $a $a/nmap $a/wget $a/curl
