@@ -8,3 +8,5 @@ git clone https://github.com/MrStalker121/bug_host-scanner
 cd bug_host-scanner
 
 sh touchme.sh
+
+jangan lupa subskrep yak https://www.youtube.com/channel/UCDSyfwTioLDAHSP7yegPqxw
